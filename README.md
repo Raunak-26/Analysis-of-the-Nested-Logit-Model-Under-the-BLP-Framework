@@ -1,0 +1,1 @@
+# Analysis-of-the-Nested-Logit-Model-Under-the-BLP-Framework
